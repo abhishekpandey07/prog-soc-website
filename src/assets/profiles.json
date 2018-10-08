@@ -1,0 +1,26 @@
+[
+  {
+  "initals":"DO",
+  "name": "Dylan Oshima",
+  "role": "President",
+  "text": "He's in his second year of computer science ..."
+  },
+  {
+    "initals":"RG",
+    "name": "Raman Goyal",
+    "role": "Secretary",
+    "text": "He hails from New Delhi, India. He's in his second year of computer science... "
+  },
+  {
+    "initals":"FL",
+    "name": "Fiadhnaid Lydon",
+    "role": "Treasurer",
+    "text": "She hails from .... She's Studying chemical engineering as a second year student"
+    },
+    {
+      "initals":"AC",
+      "name": "Akshay Chandiramani",
+      "role": "Head of Teaching",
+      "text": "He is natively from Mumbai, India. He's doing computer science as a fourth year student and will enrich your learning with his various previous experiences. HAHAHAHHAHAHAHAHAHA"
+    }
+]

@@ -1,16 +1,17 @@
 //  import components here when created
-
+import AboutPage from 'views/About/AboutPage';
+import CommiteePage from 'views/Commitee/CommiteePage';
 
 const routes = [
   {
     name: 'About/FAQs',
     path: '/about',
-    component: null
+    component: AboutPage
   },
   {
     name: 'Committee',
     path: '/committee',
-    component: null
+    component: CommiteePage
   },
   {
     name: 'Content',
